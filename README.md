@@ -15,7 +15,7 @@ Este es un **Reloj Pomodoro** desarrollado con **React + Vite**, diseñado para 
 
 ### 1️⃣ **Clonar el repositorio**
 git clone https://github.com/raizenchile/pomodoro-reloj-ipss.git
-cd pomodoro-reloj
+cd pomodoro-reloj-ipss
 
 ### 2️⃣ **Instalar dependencias**
 npm install
